@@ -1,0 +1,94 @@
+body {
+				margin : 7px;
+				}
+.G {
+				color : rgb(66,133,244); 
+				}
+	.o {
+				color : rgb(219,68,55); 
+				}
+	.o1 {
+				color : rgb(244,160,0); 
+				}
+	.g {
+				color : rgb(66,133,244); 
+				}
+		.l {
+				color : rgb(15,157,88) ;
+				}
+	.e {
+				color : rgb(219,68,55); 
+				}									
+.logo {
+				font-family : Nunito; 
+				margin-top : 55px; 
+				text-align : center; 
+				font-size : x-large; 
+				}
+	.searchContainer 	{ 
+					padding-left: 7px; 
+	    position: relative; 
+	    } 
+ .mic { 
+ 				position: absolute;  
+ 		  font-family: 'FontAwesome';
+ 		  top: 10px;
+ 		  right: 60px; 
+ 		   }
+	.search {
+					float : left; 
+					height : 40px; 
+					width : 87%;
+					border-radius : 25px 0px 0px 25px; 
+					border: 1px solid rgba(0, 0, 0, 0.1);
+					padding : 10px;
+					text-align : center;
+					}
+	.button {
+					height : 40px; 
+					width: 13%;
+					float: left;
+					border-radius : 0px 25px 25px 0px; 
+					text-align: center;
+					border: 1px solid rgba(0, 0, 0, 0.1);
+					padding : 10px;
+					background-color : rgb(66,133,244);
+					}
+	a,.lang {
+					text-decoration : none; 
+					font-size : small; 
+					text-align : center; 
+					word-spacing: 15px; 
+			}		
+.b {
+				word-spacing:normal; 
+				}		
+.c {
+				 font-size : small; 
+					text-align : center;
+				}
+.d {
+				font-size : medium; 
+				word-spacing: 15px;
+				}
+.d1:hover {
+				color : #cccccc; 
+				font-size : small; 
+				word-spacing: 15px;
+				text-decoration: underline; 
+				}
+				footer {
+								position: absolute; 
+								bottom: 0px; 
+								width : 100%;
+								}
+.foot {
+				text-align : center; 
+				location : bottom; 
+				color : #cccccc; 
+				word-spacing: 20px; 
+				}
+hr {
+				border: 1px solid rgba(0, 0, 0, 0.1);
+		  width : 100%;
+				}
